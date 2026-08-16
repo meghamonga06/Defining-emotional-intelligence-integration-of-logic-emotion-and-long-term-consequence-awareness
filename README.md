@@ -22,4 +22,4 @@ https://doi.org/10.5281/zenodo.21875538
 
 ## License
 GNU Affero General Public License v3.0 (AGPL‑3.0)  
-A separate LICENSE file contains the CC BY‑NC‑ND 4.0 research license used for the Zenodo paper.
+A separate LICENSE file contains the Creative Commons Attribution 4.0 International (CC BY 4.0) research license used for the Zenodo paper.
