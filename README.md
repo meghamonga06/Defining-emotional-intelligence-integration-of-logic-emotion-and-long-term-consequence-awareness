@@ -7,6 +7,10 @@ Research repository for “Defining Emotional Intelligence: Integration of Logic
 ## DOI
 https://doi.org/10.5281/zenodo.21875538
 Zenodo Record: https://zenodo.org/records/21875538
+Previous paper in the series:  
+_Integrative Thinking Produces Emotional Intelligence: A Three‑Layer Cognitive Framework_
+https://doi.org/10.5281/zenodo.21615053 Zenodo Record: https://zenodo.org/records/21615053
+
 
 ## Research Paper
 This repository provides the research record for the published preprint available on Zenodo for the paper Defining Emotional Intelligence: Integration of Logic, Emotion, and Long‑Term Consequence Awareness.
