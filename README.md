@@ -25,5 +25,4 @@ Monga, M. (2026). Defining Emotional Intelligence: Integration of Logic, Emotion
 https://doi.org/10.5281/zenodo.21875538
 
 ## License
-GNU Affero General Public License v3.0 (AGPL‑3.0)  
-A separate LICENSE file contains the Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY–NC–ND 4.0) research license used for the Zenodo paper.
+Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY–NC–ND 4.0)
