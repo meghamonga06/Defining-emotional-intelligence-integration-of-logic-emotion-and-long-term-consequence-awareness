@@ -25,4 +25,4 @@ Monga, M. (2026). Defining Emotional Intelligence: Integration of Logic, Emotion
 https://doi.org/10.5281/zenodo.21875538
 
 ## License
-Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY–NC–ND 4.0)
+All research papers, framework documentation, definitions, diagrams, and written materials in this repository are licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY–NC–ND 4.0)
